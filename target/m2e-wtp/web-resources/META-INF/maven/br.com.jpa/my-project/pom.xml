@@ -10,7 +10,7 @@
 	<properties>
 		<project.build.projectEncoding>UTF-8</project.build.projectEncoding>
 	</properties>
-	
+
 	<dependencies>
 		<dependency>
 			<groupId>org.glassfish</groupId>
@@ -18,6 +18,18 @@
 			<version>2.2.10</version>
 			<scope>compile</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.jboss.weld.servlet</groupId>
+			<artifactId>weld-servlet</artifactId>
+			<version>2.3.1.Final</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss</groupId>
+			<artifactId>jandex</artifactId>
+			<version>2.1.1.Final</version>
+			<scope>compile</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
