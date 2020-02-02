@@ -10,7 +10,10 @@
 </h:head>
 <h:body>
 
-			<h:outputText value="Usuário cadastrado com sucesso!" />
-
+			<f:metadata>
+			<f:viewParam name="parametro" value="#{bean.pessoa.nome}"/>
+			</f:metadata>
+			
+			<h1>#{bean.pessoa.nome} foi cadastrado com sucesso!</h1>
 </h:body>
 </html>
