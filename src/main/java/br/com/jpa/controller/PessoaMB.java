@@ -10,7 +10,7 @@ import javax.inject.Named;
 
 import br.com.jpa.model.Pessoa;
 
-@Named("pessoa")
+@Named("bean")
 @SessionScoped
 public class PessoaMB implements Serializable{
 
