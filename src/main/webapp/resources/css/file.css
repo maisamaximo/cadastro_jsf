@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+@import
+	url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	margin: 20px;
+}
+
+h1 {
+	color: #401F69 !important;
+	font-weight: 450;
+	font-size: 24px;
+}
+
+.img-logo {
+	background: #F2F2F2 !important;
+	height: 90px;
+	width: 100%;
+	margin: 0px;
+}
+
+.btn-delete {
+	cursor: pointer;
+	width: 30px;
+    height: 30px;
+    border: none;
+    align-items: center;
+    background-image: url(#{resource['img:del.svg']});
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
