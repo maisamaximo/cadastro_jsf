@@ -11,7 +11,7 @@ Projeto de cadastro simples conhecendo os componentes de JSF e utilizando primef
 
 <h3 align="center"> Tutorial do canal: <a href="https://www.youtube.com/channel/UCkdJNcMKlxTMjrXzSMoKzjg">Luiz Alberto</a> </h3>
 
-![teste](./src/webapp/resources/img/jsf-tela.png)
+![teste](./src/main/webapp/resources/img/jsf-tela.png)
 
 ## Pre requisito
 ```sh
