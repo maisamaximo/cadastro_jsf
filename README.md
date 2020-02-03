@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao Cadastro JSF 🚀</h1>
+<h1 align="center">Bem-vindo ao Cadastro JSF</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-yellow.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/maisamaximo_" target="_blank">
@@ -11,7 +11,7 @@ Projeto de cadastro simples conhecendo os componentes de JSF e utilizando primef
 
 <h3 align="center"> Tutorial do canal: <a href="https://www.youtube.com/channel/UCkdJNcMKlxTMjrXzSMoKzjg">Luiz Alberto</a> </h3>
 
-<img src="./img/jsf-tela.png">
+<img src="./src/webapp/resources/img/jsf-tela.png">
 
 ## Pre requisito
 ```sh
